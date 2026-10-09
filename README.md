@@ -2,6 +2,10 @@
 
 A responsive Pokémon-inspired beauty studio demo built with Next.js App Router, React, TypeScript, Tailwind CSS, and Lucide.
 
+## Deployment
+
+[Visit Salon & Spheal](https://superb-sprite-a99631.netlify.app/)
+
 ## Run locally
 
 ```bash
